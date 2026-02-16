@@ -34,7 +34,7 @@ Each operation can be selected from a simple menu after providing the image path
 ## How to Run
 
 1. Clone this repository:
-git clone https://github.com/your-username/interactive-image-processing-opencv.git
+git clone [https://github.com/aanshikdubey09-eng/Interactive-Image-Processing-Using-OpenCV.git]
 
 
 2. Install dependencies:
@@ -50,15 +50,24 @@ python main.py
 ---
 
 ## Project Structure
-
-interactive-image-processing-opencv/
+Interactive-Image-Processing-Using-OpenCV/
 │
 ├── main.py
 ├── README.md
 ├── requirements.txt
+│
 ├── sample_images/
+│ ├── image copy 2.png
+│ ├── image copy.png
+│ ├── image.jpg
+│ └── image.png
+│
 └── screenshots/
-
+├── Menu.png
+├── Grayscale.png
+├── Edge detection.png
+├── Contour Detection.png
+└── Color Detection.png
 
 ---
 
