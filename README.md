@@ -46,29 +46,6 @@ python main.py
 
 
 4. Enter the image filename when prompted (make sure the image is in the same folder or provide full path).
-
----
-
-## Project Structure
-Interactive-Image-Processing-Using-OpenCV/
-│
-├── main.py
-├── README.md
-├── requirements.txt
-│
-├── sample_images/
-│ ├── image copy 2.png
-│ ├── image copy.png
-│ ├── image.jpg
-│ └── image.png
-│
-└── screenshots/
-├── Menu.png
-├── Grayscale.png
-├── Edge detection.png
-├── Contour Detection.png
-└── Color Detection.png
-
 ---
 
 ## What I Learned
